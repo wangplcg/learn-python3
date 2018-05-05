@@ -21,4 +21,7 @@ def produce(c):
     c.close()
 
 c = consumer()
+
+
+
 produce(c)
