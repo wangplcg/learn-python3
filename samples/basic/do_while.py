@@ -9,6 +9,7 @@ while n <= 100:
     n = n + 1
 print(sum)
 
+
 # 计算1x2x3x...x100:
 acc = 1
 n = 1
